@@ -68,3 +68,4 @@ sbatch --nodes=1 --ntasks-per-node=8 --time=0:30:00 --mem=16G ./myscript.sh
 Adjust times and resources needed according to what you will run. 
 
 
+
