@@ -19,7 +19,7 @@ achieves for this problem for $n = 10^{i}, \, i = 1, 2, \ldots 7$.  You will
 likely need to loop over the operation multiple times for small $n$ to 
 get good results.
 
-Repeat this using $f(x) = 1.2345 + 2.3456x + 3.4567x^2 + 4.5678*x^3$.  Be careful when estimating the number of operations since the compiler will often
+Repeat this using $f(x) = 1.2345 + 2.3456x + 3.4567x^2 + 4.5678x^3$.  Be careful when estimating the number of operations since the compiler will often
 turn the apparent 7 FLOPs of
 
 ```
