@@ -6,7 +6,7 @@ The midpoint rule is one technique for numerical
 evaluation of definite integrals of the form
 
 $$
-  I = int^b_a f(x) dx \, .
+  I = \int^b_a f(x) dx \, .
 $$
 
 A C++ implementation is provided in `midpoint.cc` and can be compiled
