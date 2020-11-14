@@ -12,6 +12,8 @@ $$
 A C++ implementation is provided in `midpoint.cc` and can be compiled
 using `g++ -O3 midpoint.cc -o midpoint`.
 
+Note, because this document uses math notation, you might like to [view it on StackEdit](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/me701/homework_parallel/main/README.md).
+
 ## Problem 1.
 
 Adjust the given program to  estimate the number of GFLOP/S your machine
